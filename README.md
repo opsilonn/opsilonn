@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello there ! (●'◡'●)
+
+### Here are some projects that may interest you :3
+
+* **[The Otter Quiz](http://otter-quiz.herokuapp.com)** - A quiz game that has light-rpg elements to it (well, at least once they'll be implemented)
+* **[The Otter Worlds](http://otter-worlds.herokuapp.com)** - A tool to help you manage your own Role-Playing games
+* **[Build your Fleet](https://build-your-fleet.herokuapp.com)** - My first website *(pls pls pls don't break it)*
+
 
 <!--
 **opsilonn/opsilonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
